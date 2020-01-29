@@ -1,7 +1,6 @@
 <h1 align="center">Quero Palestrar!</h1>
 <p align="center">
-    Repositório de <i>palestras</i> para Meetups do 
-React VIX
+    Repositório de <i>palestras</i> para Meetups do React Vix
 </p>
 <p align="center">
     <a href="https://github.com/React-VIX/talks/issues/new">
@@ -10,11 +9,12 @@ React VIX
 </p>
 
 ---
-<h2 align="center">Consulte</h2>
 <p align="center">
-    <a href="https://github.com/React-VIX/talks/issues?q=is%3Aissue+is%3Aopen+label%3APalestras">
-        Palestras
-    </a>&nbsp;
+    <h4 align="center">
+      <a href="https://github.com/React-VIX/talks/issues">
+        Visualisar todas as Palestras
+      </a>&nbsp;
+    </h4>
 </p>
 
 <h2 align="center">Níveis</h2>
@@ -38,16 +38,16 @@ React VIX
     <a href="https://github.com/React-VIX/talks/labels/boas%20pr%C3%A1ticas">
         Boas práticas
     </a>&nbsp;
-    <a href="https://github.com/React-VIX/talks/labels/Carreira">
+    <a href="https://github.com/React-VIX/talks/labels/carreira">
         Carreira
     </a>&nbsp;
-    <a href="https://github.com/React-VIX/talks/labels/Infraestrutura">
+    <a href="https://github.com/React-VIX/talks/labels/infraestrutura">
         Intraestrutura
     </a>&nbsp;
-    <a href="https://github.com/React-VIX/talks/labels/POO">
+    <a href="https://github.com/React-VIX/talks/labels/paradigmas">
         Paradigmas
     </a>&nbsp;
-    <a href="https://github.com/React-VIX/talks/labels/Seguran%C3%A7a">
+    <a href="https://github.com/React-VIX/talks/labels/seguran%C3%A7a">
         Segurança
     </a>&nbsp;
     <a href="https://github.com/React-VIX/talks/labels/testes">
@@ -57,9 +57,9 @@ React VIX
 
 ---
 
-# Call for Papers para Meetups do React VIX
+# Call for Papers para Meetups do React Vix
 
-A ideia deste repositório é permitir que palestrantes cadastrem suas **propostas de palestras** para serem apresentadas nos Meetups do grupo Vue.js Vix, onde as pessoas interessadas poderão interagir e votar em suas preferidas.
+A ideia deste repositório é permitir que palestrantes cadastrem suas **propostas de palestras** para serem apresentadas nos Meetups do grupo React Vix, onde as pessoas interessadas poderão interagir e votar em suas preferidas.
 
 ## Como funciona?
 
