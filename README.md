@@ -22,7 +22,7 @@
     <a href="https://github.com/React-VIX/talks/labels/Nível%20Iniciante">
         Iniciante
     </a>&nbsp;
-    <a href="https://github.com/React-VIX/talks/labels/Nível%20Intermadi%C3%A1rio">
+    <a href="https://github.com/React-VIX/talks/labels/Nível%20Intermedi%C3%A1rio">
         Intermediário
     </a>&nbsp;
     <a href="https://github.com/React-VIX/talks/labels/Nível%20Avan%C3%A7ado">
