@@ -19,13 +19,13 @@
 
 <h2 align="center">Níveis</h2>
 <p align="center">
-    <a href="https://github.com/React-VIX/talks/labels/iniciante">
+    <a href="https://github.com/React-VIX/talks/labels/Nível%20Iniciante">
         Iniciante
     </a>&nbsp;
-    <a href="https://github.com/React-VIX/talks/labels/intermadi%C3%A1rio">
+    <a href="https://github.com/React-VIX/talks/labels/Nível%20Intermadi%C3%A1rio">
         Intermediário
     </a>&nbsp;
-    <a href="https://github.com/React-VIX/talks/labels/avan%C3%A7ado">
+    <a href="https://github.com/React-VIX/talks/labels/Nível%20Avan%C3%A7ado">
         Avançado
     </a>&nbsp;
 </p>
